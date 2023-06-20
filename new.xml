@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   	<name>Julia</name>
+   	<surname>Rusanova</surname>
+   	<age>39</age>
+   	<pets>false</pets>
+   	<my_desierd_salary>600</salary>
+</root>
+ 
