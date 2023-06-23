@@ -10,4 +10,8 @@
     </Steps>
     <Actual_result>Поле заполняется, данные принмаются как валидные. Форма заявки отправляется</Actual_result>
     <Expected_result>Поле 'Дата Рождения' выделяется красным, появляется сообщение 'Проверьте корректность данных'</Expected_result>
+    <Priority>Critical</Priority>
+    <Severity>Asap</Severity>
+    <Environment>MacOS BigSur 11.7.7.</Environment>
+    <Attachment>https://drive.google.com/julia/...</Attachment>
 </root>
